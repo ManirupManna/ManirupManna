@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManirupManna
-- 👀 I’m interested in front end development using(HTML, CSS, JavaScript, React.js, API)
-- 🌱 I’m currently learning React.js & Node.js
+- 👀 I’m interested in front end development using(HTML, CSS, JavaScript, React.js, API) and Backend Development using (Node JS, Express, Mongo DB)
+- 🌱 I’m currently learning React.js & Node.js 
 - 💞️ I’m looking to collaborate on front end part of applications
 - 📫 Feel free to contact me @mail : manirupmanna13@gmail.com
 
